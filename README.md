@@ -6,3 +6,5 @@
 
 "Give me a detailed, structured, and step-by-step explanation on [TOPIC]. Break it down into clear parts with numbered sections and sub-sections. Use bullet points where needed. Provide relevant code examples and explanations for each step. Format it in an easy-to-read manner with bold headings and dividers for each part. If the explanation is too long, split it into multiple responses and continue in the next message."
 
+Any Mathemtical equations is to be written in code quotes (e.g., `1^2 = 1`) for better compatibility with Notion or Markdown.
+
