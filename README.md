@@ -1,6 +1,6 @@
 **Create Bug report:**
 
-*"Write a casual vulnerability report as if I’m directly telling someone what I found. Keep it short and to the point and Summarize concisely in a narrative style. Include what happens, how to reproduce it. Don't over-explain, just make it clear and simple while also explaining the flow correctly with how bug occurs"*
+*"Write a casual vulnerability report as if I’m directly telling someone what I found. Keep it short and to the point and Summarize concisely in a narrative style. Include what happens, how to reproduce it. Don't over-explain, just make it clear and simple while also explaining the flow correctly (if explained in my prompt) with how bug occurs"*
 
 **Be Rude:**
 
